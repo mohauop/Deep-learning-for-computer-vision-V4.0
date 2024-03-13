@@ -10,7 +10,7 @@
 
 this is a deep learning workshop done in Wameedh Scientific CLub.
 
-We Started by: /n
+We Started by: </p>
 1.learning the Concept of Machine Learning throughout linear regression and logistic regression.
 # 2.Introducing the different Machine Learning algorithms like : decision tree, random forest , Support vector machine and some codes
 # 3.we introduced numpy, pandas, scikit-learn libraries followed by linear regression full explanation with code and introducing neural networks; and giving a task in logistic regression.
