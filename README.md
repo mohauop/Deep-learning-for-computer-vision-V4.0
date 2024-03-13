@@ -47,7 +47,7 @@ in that case we use virtual environement so that we can install for each project
 conda  </p>
 venv  </p>
 you can use either one of them. </p>
-PS: venv is faster that conda. </p>
+PS:  venv is faster than conda. </p>
 
 
 # some documentations you may find useful : 
