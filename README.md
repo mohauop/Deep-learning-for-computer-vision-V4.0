@@ -40,7 +40,13 @@ Scikit-learn map : https://scikit-learn.org/stable/tutorial/machine_learning_map
 
 
 
-
+# virtual environments :
+virtual environements are very important in handling dependencies, for each AI project you need certain some dependencies, so , if you have many projects, there will be errors in dependencies , for example if project1 requires pytorch V1.0 and project2 requires pytorch V2.0 ==> THIS WILL RESULT AN ERROR.
+in that case we use virtual environement so that we can install for each project its requirements.
+# Available environments that i am aware of :
+conda  ; venv 
+you can use either one of them.
+PS: venv is faster that conda.
 
 
 # some documentations you may find useful : 
@@ -49,5 +55,7 @@ pandas DataFrame : https://www.w3schools.com/python/pandas/pandas_dataframes.asp
 pytorch layers and function : https://pytorch.org/docs/stable/nn.html
 
 VGG19 paper : https://arxiv.org/pdf/1409.1556.pdf
+
+
 
 
